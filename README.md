@@ -1,3 +1,1 @@
 # HTMLAssignment
-
-Första utkast

@@ -12,7 +12,7 @@
    ========================================================================== */
 
 html {
-  color: #222;
+  color: #4AB06A;
   font-size: 1em;
   line-height: 1.4;
 }
@@ -25,14 +25,16 @@ html {
  */
 
 ::-moz-selection {
-  background: #b3d4fc;
+  background: #4B7057;
   text-shadow: none;
 }
 
 ::selection {
-  background: #b3d4fc;
+  background: #4B7057;
   text-shadow: none;
 }
+
+
 
 /*
  * A better looking default horizontal rule
@@ -83,6 +85,19 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+  background-color: #556B59;
+  font-family: "Comic Sans MS";
+  text-align:center;
+}
+
+img {
+  width: 450px;
+  height: 500px;
+  border: 6px solid navajowhite;
+  border-radius: 20px;
+  object-fit: cover;
+}
 
 /* ==========================================================================
    Helper classes

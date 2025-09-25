@@ -85,18 +85,18 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-body {
+#intro {
   background-color: #556B59;
   font-family: "Comic Sans MS";
   text-align:center;
-}
 
-img {
-  width: 450px;
-  height: 500px;
+  img {
+  width: 200px;
+  height: 300px;
   border: 6px solid navajowhite;
   border-radius: 20px;
   object-fit: cover;
+}
 }
 
 /* ==========================================================================
